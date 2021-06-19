@@ -47,7 +47,7 @@
 
                 <div class="form-group mb-0">
                     <button type="submit" class="btn btn-block btn-secondary">
-                        ログイン
+                        ログインする
                     </button>
                 </div>
 
