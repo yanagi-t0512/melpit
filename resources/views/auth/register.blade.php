@@ -50,7 +50,7 @@
                 </div>
 
                 <div>
-                    アカウントをお持ちの方は<a href="{{ route('login') }}">こちら</a>
+                    （ブランチテスト）アカウントをお持ちの方は<a href="{{ route('login') }}">こちら</a>
                 </div>
             </form>
         </div>
